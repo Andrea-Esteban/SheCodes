@@ -38,16 +38,21 @@
         width: 400px;
       }
       button {
-        margin: 40px;
-        padding: 15px 20px;
+        background: transparent;
         display: block;
-        margin: 0 auto;
-        background: #f5f0fe;
         color: #885df1;
-        font-weight: bolder;
+        font-size: 18px;
+        margin: 0 auto 30px auto;
+        padding: 15px 20px;
         border: 1px solid #885df1;
         border-radius: 35px;
-        box-shadow: 4px 4px 7px rgb(172, 172, 172);
+        box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+        transition: all 150ms ease-in-out;
+      }
+      button:hover {
+        color: #f5f0fe;
+        background: #885df1;
+        cursor: pointer;
       }
     </style>
   </head>
