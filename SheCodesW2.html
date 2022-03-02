@@ -67,11 +67,13 @@
       <button>Apply Now</button>
     </section>
     <script>
-      let Hometow = prompt("What is your hometown");
-      alert("Your hometown is: " + Hometow);
-      let FirstName = prompt("What is your first name?");
-      let LastName = prompt("What is your last name?");
-      alert("Your fullname is: " + FirstName + " " + LastName);
+      let age = prompt("How old are you?");
+      if (age >= 18) {
+        alert("You can apply to SheCodes!");
+      }
+      if (age < 18) {
+        alert("You cannot apply to SheCodes!");
+      }
     </script>
   </body>
 </html>
