@@ -1,12 +1,12 @@
-# Andrea Cordova <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# Andrea Cordova
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <p>
   <em>
-    I am a university student from <a href="https://www.srmist.edu.in/"> <b>SRM Universidad Peruana de Ciencias Aplicadas</b>, Perú</a>. <br>
-    A creative <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Design    Enthusiast,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"><br>who is <b>obsessed</b>
-    with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
+    I am a university student from <a href="https://www.upc.edu.pe/"> <b> Universidad Peruana de Ciencias Aplicadas</b>, Perú</a>. <br>
+    A creative <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Design    Enthusiast,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"><br>who likes to <b>obsessed</b>
+     <b>learn more</b> everyday and wants  <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
     <b>excel.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
   </em>  
