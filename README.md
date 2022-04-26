@@ -16,20 +16,14 @@
 <br>
 
 
-![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=Andrea-Esteban&theme=dark&show_icons=true?theme=radical)
+![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=Andrea-Esteban&theme=synthwave&show_icons=true)
 
 <br>
 
-  <a href="https://in.linkedin.com/in/TheDudeThatCode">
+  <a href="https://www.linkedin.com/in/andrea-c%C3%B3rdova-blaz/">
     <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
-  <a href="https://twitter.com/TheDudeThatCode">
-    <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
-  </a>
-  <a href="https://www.instagram.com/thedudethatcode/">
-    <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
-  </a>
-  <a href="mailto:shubhamdeepjha@gmail.com">
+  <a href="mailto:andrea.cordova.2001cb@gmail.com">
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
 
