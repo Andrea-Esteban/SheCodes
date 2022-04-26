@@ -16,7 +16,7 @@
 <br>
 
 
-![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=Andrea-Esteban&theme=dark&show_icons=true)
+![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=Andrea-Esteban&theme=radical_icons=true)
 
 <br>
 
